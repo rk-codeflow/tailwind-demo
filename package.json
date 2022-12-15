@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-demo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "npx tailwindcss -i tailwind.css -o ./layouts/css/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
